@@ -1,7 +1,9 @@
 # TOPGRID
 
+Standalone version of the topology analysis in the [QUEST](https://quest.codes/) quantum chemistry code.
+
 Algorithms for analysing topographical and topological quantities 
-of a function defined on an arbitrary set of points in  space.
+of a function defined on an arbitrary set of points in space.
 
 ## Usage
 A good place to start is to make sure the tests work on your system - see the testing section below.
