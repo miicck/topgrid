@@ -1,6 +1,6 @@
 # TOPGRID
 
-Standalone version of the topology analysis in the [QUEST](https://quest.codes/) quantum chemistry code.
+Standalone version of the topology analysis in the [QUEST](https://quest.codes/) quantum chemistry code. See the working paper on [ChemRxiv](https://doi.org/10.26434/chemrxiv-2022-dt5nj).
 
 Algorithms for analysing topographical and topological quantities 
 of a function defined on an arbitrary set of points in space.
